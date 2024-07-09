@@ -23,8 +23,8 @@ A comprehensive Java application for managing school finances. Features include 
    ./gradlew build
    ```
 4. **Run the application:**
--  **Navigate to the Main class in IntelliJ IDEA and run it.**
+   -  **Navigate to the Main class in IntelliJ IDEA and run it.**
 
-**Usage**
+## Usage
 - Manage teachers and students.
 - Track and manage financial transactions.
