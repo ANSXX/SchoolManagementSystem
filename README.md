@@ -15,7 +15,7 @@ A comprehensive Java application for managing school finances. Features include 
 ## Installation
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/school-management-system.git
+   git clone https://github.com/ANSXX/school-management-system.git
    ```
 2. **Open the project in IntelliJ IDEA.**
 3. **Build the project:**
