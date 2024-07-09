@@ -19,9 +19,9 @@ A comprehensive Java application for managing school finances. Features include 
    ```
 2. **Open the project in IntelliJ IDEA.**
 3. **Build the project:**
-  ```
-  ./gradlew build
-  ```
+   ```
+   ./gradlew build
+   ```
 4. **Run the application:**
 -  **Navigate to the Main class in IntelliJ IDEA and run it.**
 
