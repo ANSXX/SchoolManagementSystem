@@ -1,8 +1,9 @@
 package School.Management.System;
 
-/**
+/*
+ *
  * This class represents a Teacher in the school.
- */
+   */
 public class Teacher {
     private int id;
     private String name;
